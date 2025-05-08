@@ -22,7 +22,8 @@ sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 tensorflow.keras.layers import Dense, BatchNormalization, Activation, Input, Embedding, Flatten, Concatenate
 
 **Python Dataset**
-StarData.csv
+StarData.csv 
+Baidya, D. (2023, May 7). Star dataset to predict star types. Kaggle. Retrieved May 7, 2024, from https://www.kaggle.com/datasets/deepu1109/star-dataset 
 
 **Code**
 Fabian_Perez_Math_579_Final_Project.ipynb
